@@ -1,24 +1,12 @@
 <div align="center">
 
-# neko's idea🍥
+# neko's idea
 
 Hello, I'm _nekoside_,
 
 my blog: [nekoside](https://nekoside.com/)
 
 pronunciation: [/ˈnekoʊˌsaɪd/](https://translate.google.com/?sl=en&tl=zh-CN&text=nekoside&op=translate)
-
----
-
-I use arch btw (
-
-![](https://skillicons.dev/icons?i=arch)
-
-The programming languages I'm learning:
-
-![](https://skillicons.dev/icons?i=cpp,ts,go,rust)
-
-I'm still a noob...
 
 ---
 
