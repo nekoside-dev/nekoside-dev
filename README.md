@@ -1,7 +1,5 @@
 <div align="center">
 
-# neko's idea
-
 Hello, I'm _nekoside_,
 
 my blog: [nekoside](https://nekoside.com/)
